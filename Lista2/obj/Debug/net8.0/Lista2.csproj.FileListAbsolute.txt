@@ -1,0 +1,14 @@
+/home/marcos/Faculdade/GQS/Att lista/Lista2/bin/Debug/net8.0/Lista2
+/home/marcos/Faculdade/GQS/Att lista/Lista2/bin/Debug/net8.0/Lista2.deps.json
+/home/marcos/Faculdade/GQS/Att lista/Lista2/bin/Debug/net8.0/Lista2.runtimeconfig.json
+/home/marcos/Faculdade/GQS/Att lista/Lista2/bin/Debug/net8.0/Lista2.dll
+/home/marcos/Faculdade/GQS/Att lista/Lista2/bin/Debug/net8.0/Lista2.pdb
+/home/marcos/Faculdade/GQS/Att lista/Lista2/obj/Debug/net8.0/Lista2.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Faculdade/GQS/Att lista/Lista2/obj/Debug/net8.0/Lista2.AssemblyInfoInputs.cache
+/home/marcos/Faculdade/GQS/Att lista/Lista2/obj/Debug/net8.0/Lista2.AssemblyInfo.cs
+/home/marcos/Faculdade/GQS/Att lista/Lista2/obj/Debug/net8.0/Lista2.csproj.CoreCompileInputs.cache
+/home/marcos/Faculdade/GQS/Att lista/Lista2/obj/Debug/net8.0/Lista2.dll
+/home/marcos/Faculdade/GQS/Att lista/Lista2/obj/Debug/net8.0/refint/Lista2.dll
+/home/marcos/Faculdade/GQS/Att lista/Lista2/obj/Debug/net8.0/Lista2.pdb
+/home/marcos/Faculdade/GQS/Att lista/Lista2/obj/Debug/net8.0/Lista2.genruntimeconfig.cache
+/home/marcos/Faculdade/GQS/Att lista/Lista2/obj/Debug/net8.0/ref/Lista2.dll
